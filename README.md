@@ -1,11 +1,11 @@
 
 <p>
-  <span style="font-size: 24px;">Olá!</span>
+  <span style="font-size: 28px;">Olá!</span>
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="24" height="24">
   </picture>
-  <span style="font-size: 24px;">Meu nome é Leonardo Hermes</span>
+  <span style="font-size: 28px;">Meu nome é Leonardo Hermes</span>
 </p>
 
 
