@@ -1,12 +1,18 @@
 
-<p> Olá! 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="18" height="18">
-</picture>
-Meu nome é Leonardo Hermes 
+<p>
+  <span style="font-size: 24px;">Olá!</span>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="24" height="24">
+  </picture>
+  <span style="font-size: 24px;">Meu nome é Leonardo Hermes</span>
 </p>
 
+
+### Atualmente estudante de Engenharia de Software 
+
+### Você pode me contatar pelos seguintes meios
+🡣
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-hermes-de-carvalho-66196b26b/?trk=opento_sprofile_details)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/527297352344666113)
