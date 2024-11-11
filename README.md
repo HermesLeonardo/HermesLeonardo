@@ -3,27 +3,36 @@
 
 
 
-
-
-
-
 ### Hi! 👋 My name is Leonardo Hermes 
-
+#
 
 
 
 ### Currently I'm a Software Engineering student.
 
+#
 ### You can contact me by the following means
 🡣
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-hermes-de-carvalho-66196b26b/?trk=opento_sprofile_details)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/527297352344666113)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leohermescarvalho18@gmail.com?subject=Contato&body=Olá)
+#
+
+<div style="width: 100%">
+
+<p><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=HermesLeonardo&show_icons=true&theme=radical" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesLeonardo&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesLeonardo&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HermesLeonardo&theme=radical&mode=weekly" /></p>
+
+
+
+<p><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermesLeonardo&layout=donut&theme=radical" /></p>
+
+</div>
+
+##
 
 ### Technologies that I use in my daily life and in my college projects.
 
@@ -44,6 +53,8 @@
     
 
 </div><br/>
+
+
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172b53&height=120&section=footer"/>
