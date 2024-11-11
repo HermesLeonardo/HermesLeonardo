@@ -1,12 +1,20 @@
-
-### Olá! 👋 Meu nome é Leonardo Hermes 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172b53&height=120&section=header"/>
 
 
 
-### Atualmente estudante de Engenharia de Software 
 
-### Você pode me contatar pelos seguintes meios
+
+
+
+
+### Hi! 👋 My name is Leonardo Hermes 
+
+
+
+
+### Currently I'm a Software Engineering student.
+
+### You can contact me by the following means
 🡣
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-hermes-de-carvalho-66196b26b/?trk=opento_sprofile_details)
@@ -17,7 +25,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesLeonardo&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesLeonardo&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que uso no meu dia a dia e principalmente nos meus projetos de Faculdade.
+### Technologies that I use in my daily life and in my college projects.
 
 <div style="display: inline_block"><br/>
     <img alin="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,13 +39,14 @@
     <img alin="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alin="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alin="center" alt="html5" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+    <img alin="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit"/>
     
     
 
 </div><br/>
  
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172b53&height=120&section=footer"/>
 
 
-
-### Apaixonado por programação Backend e por tecnologia, disposto a mudar vidas através de soluções programáveis 
+          
